@@ -1,0 +1,13 @@
+{
+    "Category":"Catégorie",
+    "Item":"Article",
+    "Item Name":"Nom de l'article",
+    "Item Price":"Prix ​​de l'article",
+    "VAT(%)":"T.V.A(%)",
+    "Description":"La description",
+    "Visible In Store":"Visible en magasin",
+    "Item In Stock":"Objet en stock",
+    "Add Modifier":"Ajouter un modificateur",
+    "Select Modifier":"Sélectionner le modificateur",
+    "Enter Category Name":"Entrez le nom de la catégorie"
+}
